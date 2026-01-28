@@ -1,24 +1,76 @@
-This is free and unencumbered software released into the public domain.
+LICENÇA DE SOFTWARE PROPRIETÁRIA RESTRITIVA INTERNACIONAL
+(LSPR-REVOGÁVEL – VERSÃO PARA REPOSITÓRIOS ABERTOS)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026, [SEU NOME OU EMPRESA] Todos os direitos reservados.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1.  CONCESSÃO LIMITADA E CONDICIONAL Fica concedida ao usuário uma
+    licença revogável, não exclusiva e intransferível para uso, cópia e
+    modificação deste software, estritamente condicionada à observância
+    integral de todos os termos desta licença. A natureza de “código
+    aberto” do repositório não implica renúncia de direitos autorais ou
+    patrimoniais por parte do titular.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2.  ISENÇÃO DE RESPONSABILIDADE O software é fornecido “COMO ESTÁ”
+    (as-is), sem garantias de qualquer natureza. O autor não se
+    responsabiliza por quaisquer danos decorrentes do uso, direto ou
+    indireto, incluindo interrupções de serviço ou perda de dados.
 
-For more information, please refer to <https://unlicense.org>
+3.  PRESERVAÇÃO OBRIGATÓRIA DE AUTORIA É expressamente proibida a
+    remoção, ocultação ou alteração de:
+
+a)  Avisos de copyright, nomes de autores e links de licença contidos no
+    código-fonte;
+b)  Logotipos, créditos, marcas d’água e avisos de autoria exibidos na
+    interface de usuário (UI), telas de carregamento, rodapés ou
+    metadados.
+
+4.  PROIBIÇÃO DE EXPLORAÇÃO COMO SERVIÇO (ANTI-SaaS) Esta licença não
+    autoriza o uso do software para prestação de serviços em nuvem,
+    plataformas multi-tenant ou qualquer modelo onde terceiros acessem
+    as funcionalidades do software remotamente mediante pagamento,
+    assinatura ou monetização indireta (SaaS, PaaS, IaaS). O uso nestes
+    moldes exige uma licença comercial específica e autorização prévia
+    por escrito.
+
+5.  REVOGAÇÃO AUTOMÁTICA POR INFRAÇÃO (CLÁUSULA RESOLUTIVA) O
+    descumprimento de qualquer cláusula desta licença (especialmente as
+    Cláusulas 3 e 4) opera a revogação automática e imediata de todos os
+    direitos concedidos ao usuário.
+
+5.1. Caracterização de Pirataria Uma vez revogada a licença, qualquer
+permanência de uso, hospedagem, execução ou distribuição do software
+constitui crime de contrafação e violação de propriedade intelectual,
+nos termos da Lei 9.609/98 (Lei do Software) e Lei 9.610/98 (Lei de
+Direitos Autorais), além de tratados internacionais (Convenção de Berna
+e TRIPS).
+
+6.  OBRIGAÇÃO DE FAZER E TUTELA DE URGÊNCIA Em caso de revogação por
+    infração, o usuário reconhece e concorda que:
+
+a)  Obriga-se a cessar imediatamente o uso e excluir todas as instâncias
+    e cópias do software em até 24 horas;
+b)  O titular possui direito inequívoco de obter tutela de urgência
+    (liminar) para suspensão de domínios, bloqueio de servidores
+    (take-down) e remoção de conteúdo junto a provedores de hospedagem.
+
+7.  INDENIZAÇÃO E CUSTOS O infrator responderá civilmente pelos danos
+    causados à propriedade intelectual e à marca do titular. O infrator
+    arcará integralmente com as custas processuais e honorários
+    advocatícios necessários para a interrupção do uso indevido e
+    reparação dos danos.
+
+8.  CONSENTIMENTO POR CONDUTA CONCLUDENTE O ato de realizar download,
+    clone, fork, compilação ou a execução deste código-fonte constitui
+    aceitação plena, inequívoca e irrevogável destes termos. O usuário
+    declara que teve acesso prévio a esta licença e compreende que o
+    livre acesso ao código não implica liberdade de uso comercial ou
+    SaaS.
+
+9.  JURISDIÇÃO E LEGISLAÇÃO APLICÁVEL Esta licença é regida pelas leis
+    da República Federativa do Brasil. Fica eleito o foro da comarca de
+    [SUA CIDADE/ESTADO] para dirimir quaisquer controvérsias, com
+    renúncia expressa a qualquer outro, por mais privilegiado que seja.
+
+10. SEVERABILIDADE A nulidade ou invalidade de qualquer cláusula não
+    afetará a validade das demais, que permanecerão em pleno vigor para
+    proteger os direitos de propriedade intelectual do autor.
