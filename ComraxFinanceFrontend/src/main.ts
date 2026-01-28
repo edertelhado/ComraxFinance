@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Eder Rafael Telhado. Uso sujeito aos termos da licença LSPR-REVOGÁVEL.
 import './assets/main.css'
 
 import { createApp } from 'vue'

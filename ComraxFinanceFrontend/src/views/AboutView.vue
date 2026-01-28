@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Eder Rafael Telhado. Uso sujeito aos termos da licença LSPR-REVOGÁVEL.  -->
 <template>
   <div class="about">
     <h1>This is an about page</h1>

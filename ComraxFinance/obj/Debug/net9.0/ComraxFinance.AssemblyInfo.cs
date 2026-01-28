@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComraxFinance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788ea78bf3708bdd1e516a2a5750f1efc1622bc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComraxFinance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComraxFinance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,11 @@
+// @created : 28/01/2026
+// Copyright (c) 2026 Eder Rafael Telhado. Uso sujeito aos termos da licença LSPR-REVOGÁVEL.
+
+#region
+
 using Microsoft.AspNetCore.Mvc;
+
+#endregion
 
 namespace ComraxFinance.Controllers;
 

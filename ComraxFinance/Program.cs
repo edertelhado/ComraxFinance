@@ -1,3 +1,6 @@
+// @created : 28/01/2026
+// Copyright (c) 2026 Eder Rafael Telhado. Uso sujeito aos termos da licença LSPR-REVOGÁVEL.
+
 namespace ComraxFinance;
 
 public class Program
