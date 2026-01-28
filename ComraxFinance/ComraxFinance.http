@@ -1,0 +1,6 @@
+@ComraxFinance_HostAddress = http://localhost:5115
+
+GET {{ComraxFinance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

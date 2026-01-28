@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/ComraxFinance.csproj": {}
+  },
+  "projects": {
+    "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/ComraxFinance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/ComraxFinance.csproj",
+        "projectName": "ComraxFinance",
+        "projectPath": "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/ComraxFinance.csproj",
+        "packagesPath": "/home/etelhado/.nuget/packages/",
+        "outputPath": "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/home/etelhado/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/home/etelhado/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/etelhado/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "50tkeU5JVxI=",
+  "success": true,
+  "projectFilePath": "/home/etelhado/RiderProjects/ComraxFinance/ComraxFinance/ComraxFinance.csproj",
+  "expectedPackageFiles": [
+    "/home/etelhado/.nuget/packages/microsoft.aspnetcore.openapi/9.0.11/microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "/home/etelhado/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
